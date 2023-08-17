@@ -1,11 +1,11 @@
 body {
-    background: url("https://wallpaperaccess.com/full/2825711.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url("https://wallpaperaccess.com/full/2825711.gif"); /* Chèn background */
+    background-size: cover; /* Chỉnh background rộng toàn màn hình thiết bị */
+    background-repeat: no-repeat; /* Kiểm soát background không bị phân ảnh ra quá nhiều để bao phủ hết website, chỉ xảy ra nếu kích thước ảnh nhỏ */
+    width: 100%; /* Chỉnh chiều ngang background auto rộng đúng kích thước màn hình của thiết bị */
+    height: 100vh; /* Chỉnh chiều dọc background dài nhất đối với thiết bị */
+    overflow: hidden; /* Làm mất đi thanh trượt dọc và ngang của website*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Chỉnh font chữ cho toàn bộ webstie*/
 }
 
 h1 {
